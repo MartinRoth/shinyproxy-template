@@ -24,5 +24,6 @@ Test Martin 3 - 4
 Test Martin 5
 test Sebastian
 Test Stefan
+Test Peter am Montag
 
 (c) Copyright Open Analytics NV, 2016-2018.
